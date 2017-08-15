@@ -1,0 +1,5 @@
+d:\users\student\documents\visual studio 2017\Projects\github1\github1\bin\Debug\github1.exe
+d:\users\student\documents\visual studio 2017\Projects\github1\github1\bin\Debug\github1.pdb
+d:\users\student\documents\visual studio 2017\Projects\github1\github1\obj\Debug\github1.csprojResolveAssemblyReference.cache
+d:\users\student\documents\visual studio 2017\Projects\github1\github1\obj\Debug\github1.exe
+d:\users\student\documents\visual studio 2017\Projects\github1\github1\obj\Debug\github1.pdb
